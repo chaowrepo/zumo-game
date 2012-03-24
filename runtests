@@ -1,0 +1,2 @@
+COVER_OPTS="--cover-erase --with-coverage --cover-package=board,start_project"
+nosetests $COVER_OPTS

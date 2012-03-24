@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/proteus-intern/!svn/ver/93/trunk/tests
+END
+test_character.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/proteus-intern/!svn/ver/93/trunk/tests/test_character.py
+END
+test_initUI.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/proteus-intern/!svn/ver/83/trunk/tests/test_initUI.py
+END
+test_start_project.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/proteus-intern/!svn/ver/77/trunk/tests/test_start_project.py
+END
+test_board.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/proteus-intern/!svn/ver/89/trunk/tests/test_board.py
+END
